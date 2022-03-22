@@ -76,11 +76,11 @@
 // const resultado = esImpar(num)
 // console.log(`el numero que pusiste es:`, resultado)
 
-// EJ 07
+// EJ 08
 
-function gritar(a) {
-    return a
-}
-const frase = prompt(`qué gritas?`)
-const resultado = gritar(frase)
-console.log(`el resultado de tu grito es:`, `¡`, resultado, `!`)
+// function gritar(a) {
+//     return a
+// }
+// const frase = prompt(`qué gritas?`)
+// const resultado = gritar(frase)
+// console.log(`el resultado de tu grito es:`, `¡`, resultado, `!`)
